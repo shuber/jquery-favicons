@@ -1,11 +1,11 @@
 # jquery-favicons
 
-Adds favicons to your links
+Adds favicons to links
 
 
 ## Installation
 
-Simply download and include `jquery.favicons.js` or `jquery.favicons.min.js` to your 
+Simply download and include `jquery.favicons.js` or `jquery.favicons.min.js`
 
 
 ## Usage
